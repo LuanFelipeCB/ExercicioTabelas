@@ -1,0 +1,51 @@
+table {
+    border-collapse: collapse; 
+  }
+  
+  td {
+      border: 1px solid black;
+      padding: 5px;
+     
+  }
+  
+  div {
+      margin: 50px;
+  }
+
+  #tabela01{
+    height: 100px;
+    width: 100px;
+  }
+
+  #tabela02{
+    height: 90px;
+    width: 90px;
+  }
+
+  #tabela03{
+    height: 155px;
+    width: 155px;
+  }
+
+  .div_interna{
+   
+
+  }
+
+  #div01{
+   position: absolute;
+   left: 90px;
+   top: 25px;
+  }
+
+  #div02{
+    position: absolute;
+    left: 230px;
+    top: 30px;
+  }
+
+  #div03{
+    position: absolute;
+    left: 350px;
+    top: 4px;
+  }
